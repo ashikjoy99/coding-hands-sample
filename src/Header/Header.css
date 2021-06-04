@@ -1,0 +1,44 @@
+.main-nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    font-size: 0.7em;
+    height: 75px;
+}
+
+@media only screen and (max-width: 600px) {
+    .main-nav {
+        font-size: 0.5em;
+        padding: 0;
+    }
+}
+
+.push {
+    margin-left: auto;
+    display: flex;
+}
+
+li {
+    padding: 20px;
+}
+
+img{
+    width: 50px;
+}
+
+.second-head{
+    background-color: rgba(192, 187, 187, 0.507);
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+h5{
+    padding-left: 130px;
+}
+
+@media only screen and (max-width: 600px){
+    h5{
+        padding-left: 0;
+    }
+}

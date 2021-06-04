@@ -1,0 +1,13 @@
+.main-home{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 25px;
+}
+
+.input{
+    width: 400px;
+    background-color: rgba(192, 187, 187, 0.507);
+    padding:8px;
+    border:none;
+}

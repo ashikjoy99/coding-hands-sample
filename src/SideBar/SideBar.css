@@ -1,0 +1,14 @@
+.sidebar{
+    font-size: 0.9em;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    padding-top: 75px;
+    border-right: 2px solid rgba(192, 187, 187, 0.507);
+}
+
+.rows{
+    list-style: none;
+    margin: 0;
+    padding-top: 0;
+}
